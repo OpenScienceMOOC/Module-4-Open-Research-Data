@@ -1,0 +1,51 @@
+---
+title: "sub_Topics"
+output: html_document
+---
+---
+(make changes here = https://docs.google.com/document/d/1KuTSECSYHXZmZX15GDjyD65pJ90eRMhHVEZ-1trsw30/edit#)
+
+this should be put into a speadsheet anyway.
+
+#Sub-topics to be covered
+
+## Workflow and generalities
+
+### Computer and human readability
+### Data management plan
+### Save information and find it again
+### Share in the lab as a test
+
+## Data publication (FAIR)
+
+### Definition and history of FAIR principles
+### Other principles
+### FAIR is not open
+### CC0 as a license
+### Sensitive data and anonimisation
+### Repositories and the role of librarries.
+
+## Data literacy
+
+### Raw and primary data
+### Spreadsheet: tidyness
+### Spreadsheet: excel pitfalls
+### Interoperability: from vocabulary to ontologies
+
+## Data management
+### Metadata: basic scheme for data publication
+### Metadata: additional information for your data
+### Folder organisation
+
+## Version control and data
+### Principles
+### Using git ?
+
+
+
+## Specifics for material and methods
+### Material: inventories, author reagent table
+### Material: identificators (RRID)
+### Methods: versioning, protocols.io
+### Publish and make accessibility
+

@@ -1,0 +1,35 @@
+---
+title: "JCnotes_master"
+output: 
+  html_document:
+    toc : TRUE
+---
+
+# 2-day workshops topics
+
+###version 1
+
+  1. Open science workflow (introduction)
+ 2.  data literacy (formats, FAIR, open)
+ 3.  metadata and data organisation
+  1.  open material and methods (protocols.io, lab inventory, material sharing )
+ 4.  *data analysis documentation. (part of module 3)*
+
+###version 2
+
+
+1. tidy data
+2. from glossaries to ontologies: data interoperability
+3. Version control: git and github
+4. *Reproducible report in Rmarkdown (part of module 3)*
+
+# existing material
+
+- introduction
+- data literacy:
+  - raw/primary data
+  - tidy spreadsheet
+  - interoperability
+  - excel versus .csv
+  - 
+    
