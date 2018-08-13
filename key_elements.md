@@ -54,6 +54,10 @@
 
 ### Key resources:
 
+**Other moocs**
+
+* Research Data Management and Sharing(https://www.coursera.org/learn/data-management, videos are CC-BY and can be downloaded at https://media.ed.ac.uk/tag/tagid/rdmsmooc)
+
 **Tools**
 
 * [Re3data](https://www.re3data.org/) (Registry of Research Data Repositories).
