@@ -66,7 +66,7 @@
 
 * [World Bank Open Data](https://data.worldbank.org/).
 
-* Generic databases/repositories: [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [Dryad](http://datadryad.org/), [Pangaea.de](https://pangaea.de/), [Mendeley Data](https://data.mendeley.com/), [Datahub.io](http://datahub.io/), [Harvard Dataverse](https://dataverse.harvard.edu/), [data.opendatasoft.com](http://data.opendatasoft.com) (+10,000 open datasets).
+* Generic databases/repositories: [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [Dryad](http://datadryad.org/), [Pangaea.de](https://pangaea.de/), [Mendeley Data](https://data.mendeley.com/), [Datahub.io](http://datahub.io/), [Harvard Dataverse](https://dataverse.harvard.edu/), [data.opendatasoft.com](http://data.opendatasoft.com) (+17,000 open datasets).
 
 * Discipline-specific databases/repositories: 
 
