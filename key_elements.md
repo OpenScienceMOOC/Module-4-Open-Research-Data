@@ -152,6 +152,8 @@
 
 * [Code of practice for research data usage metrics release 1](https://peerj.com/preprints/26505/) (Fenner et al., 2018).
 
+* [Data sharing in psychology: A survey on barriers and preconditions](http://orca.cf.ac.uk/108005/1/CHambers.DataSharing.pdf) (Houtkoop et al., 2018)
+
 **Key posts**
 
 * [Primer on Data Management: What you always wanted to know](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf), DataOne.
