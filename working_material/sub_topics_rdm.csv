@@ -1,0 +1,41 @@
+"ID","Topic","Type (RDM-didactic-tools-research_linked)","Jena","Trainthetrainer","Link_to","COMMENT"
+"R35","know each other","didactic",1,1,,
+"R36","orientation","didactic",1,1,,
+"R37","workshop organisation","didactic",0,1,,
+"R38","didactic methods","didactic",0,1,,
+"R01","Research data definition","RDM",1,1,,
+"R02","Data types (raw → derived)","RDM",1,0,"R23",
+"R03","data collection","RDM",1,0,"R28,R23 ",
+"R04","metadata and documentation","RDM",1,1,"R23, R33 ,R39 ",
+"R05","data quality","RDM",1,0,,
+"R06","backup","RDM",1,1,"R31,R34",
+"R07","data analysis","RDM",1,0,"R28, R20","data analysis is important in choosing data format"
+"R09","data storage","RDM",1,1,"R28,R23 ,R39 ","what to archive, in what format"
+"R10","data repository","RDM",1,1,"R28,R27, R29 ,R32 ,R39 ","together with data publication in TtT"
+"R11","data publication","RDM",1,1,"R27,R29 ,R30 ","license, open data, FAIR data"
+"R12","Legal aspects","RDM",1,1,,
+"R13","RDM definition and goals","RDM",1,1,,
+"R14","Access restriction","RDM",0,1,"R23,R30 ",
+"R15","Data reuse","RDM",0,1,"R33, R40 ",
+"R16","data citation","RDM",0,1,,
+"R18","research data lifecycle (or flow)","RDM",1,0,,
+"R28","data format","RDM",1,0,"R03, R07, R09, R10, R39 ",
+"R08","data cleaning","research_linked",1,0,"R26","good RDM make it not necessary!"
+"R17","Why doing RDM","research_linked",1,0,,"efficiency, open data, collaboration (with yourself), long term effects,…"
+"R19","data policies and GSP","research_linked",1,1,"R40",
+"R20","research reproducibility","research_linked",1,0,"R40, R39, R07",
+"R21","Getting help and infrastructure","research_linked",0,1,,
+"R22","Collaborative working","research_linked",1,0,"R34, R31",
+"R23","folder organisation and file naming","tools",1,1,"R02, R03, R04, R09, R14, R24, R25",
+"R24","version control ","tools",1,0,"R23; R25",
+"R25","git","tools",1,0,"R23,R24,R31 ",
+"R26","open refine","tools",1,0,"R08",
+"R27","GitHub-zenodo","tools",1,0,"R10, R11, R29",
+"R29","persistent ID","tools",1,0,"R10, R11, R27 ",
+"R30","licenses","tools",1,0,"R11, R14",
+"R31","gitlab","tools",1,0,"R22, R24, R06",
+"R32","re3data.org","tools",1,0,"R10",
+"R33","isatools","tools",1,0,"R15,R04, R39 , R34",
+"R34","seekplatform","tools",1,0,"R22",
+"R39","FAIR principles","RDM",1,1,"R09, R10, R28, R04,R33 ",
+"R40","open data","research_linked",1,1,"R15, R19, R20",
