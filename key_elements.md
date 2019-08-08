@@ -180,8 +180,6 @@
 
 * [What is Open Data?](http://opendatahandbook.org/guide/en/what-is-open-data/), Open Data Handbook.
 
-* [How to select a repository?](https://www.openaire.eu/opendatapilot-repository), OpenAIRE.
-
 * [Developing Open Data policies](https://www.fosteropenscience.eu/sites/default/files/pdf/2276.pdf), FOSTER.
 
 * [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md) (Shawn Averkamp, Ashley Blewer, Matt Miller).
