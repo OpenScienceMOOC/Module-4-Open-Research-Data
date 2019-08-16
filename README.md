@@ -9,9 +9,14 @@ Open research data refers to the publishing the data underpinning scientific res
 
 ## Learning outcomes <a name="Learning outcomes"></a>
 
-1. The researcher will be able to define the characteristics of open data, the advantages and disadvantages associated with sharing different types of data openly, and the FAIR principles.
-1. Researchers will be able to share their research data openly to a relevant public repository in a way that conforms to the FAIR principles.
-1. The researcher will be able to locate and re-use datasets for their research from relevant disciplinary repositories.
+1. Experience the hassle of accessing research data which is not open, and understand the benfits of open data.
+
+2. Understand the importance of data documentation (metadata), and get familiarised with the FAIR principles and research data management concept
+
+3. Understand data format issues and its relation to  data archiving and analysis.
+
+
+4. Choose a repository and publish FAIR open data.
 
 
 ## Development team
