@@ -11,12 +11,11 @@ Open research data refers to the publishing the data underpinning scientific res
 
 1. Experience the hassle of accessing research data which is not open, and understand the benfits of open data.
 
-2. Understand the importance of data documentation (metadata), and get familiarised with the FAIR principles and research data management concept
+2. Understand the importance of data documentation (metadata), and get familiarised with the FAIR principles and the research data management concept.
 
-3. Understand data format issues and its relation to  data archiving and analysis.
+3. Understand data format issues and its relation to data archiving and analysis.
 
-
-4. Choose a repository and publish FAIR open data.
+4. Know how to choose a repository and publish FAIR open data.
 
 
 ## Development team
