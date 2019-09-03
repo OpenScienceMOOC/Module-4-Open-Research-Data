@@ -2,7 +2,7 @@
 
 all links working? [![Build Status](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data.svg?branch=master)](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data)
 
-**The master branch is used for deployment on eliademy and the opensciencemooc book. Development happens on other branches. If you are part of the development team please go there: https://github.com/OpenScienceMOOC/Module-4-Open-Research-Data/tree/development**
+**The master branch is used for deployment on eliademy and the opensciencemooc book. Development happens on other branches. If you are part of the development team please go there:** https://github.com/OpenScienceMOOC/Module-4-Open-Research-Data/tree/development
 
 ## Rationale <a name="Rationale"></a>
 
