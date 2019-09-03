@@ -2,6 +2,8 @@
 
 all links working? [![Build Status](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data.svg?branch=master)](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data)
 
+**The master branch is used for deployment on eliademy and the opensciencemooc book. Development happens on other branches. If you are part of the development team please go there: https://github.com/OpenScienceMOOC/Module-4-Open-Research-Data/tree/development**
+
 ## Rationale <a name="Rationale"></a>
 
 Open research data refers to the publishing the data underpinning scientific research results so that they have no restrictions on their access. Openly sharing data opens it up to inspection and re-use, forms the basis for research verification and reproducibility, and opens up a path to broader collaboration. In this module, you will gain insight into the importance of data sharing for reproducible research and how to curate and share your own research data.
@@ -9,12 +11,10 @@ Open research data refers to the publishing the data underpinning scientific res
 
 ## Learning outcomes <a name="Learning outcomes"></a>
 
-1. The researcher will be able to define the characteristics of open data, the advantages and disadvantages associated with sharing different types of data openly, and the FAIR principles.
-1. Researchers will be able to share their research data openly to a relevant public repository in a way that conforms to the FAIR principles.
-1. The researcher will be able to locate and re-use datasets for their research from relevant disciplinary repositories.
-
+TBC
 
 ## Development team
+
 TBC
 
 ## Key documents <a name="Key documents"></a>
