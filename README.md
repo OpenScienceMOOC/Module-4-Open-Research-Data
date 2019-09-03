@@ -1,6 +1,6 @@
 # Module4: Open Research Data
 
-all links working? [![Build Status](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data.svg?branch=master)](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data)
+all links working? [![Build Status](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data.svg?branch=development)](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data)
 
 ## Rationale <a name="Rationale"></a>
 
@@ -18,8 +18,32 @@ Open research data refers to the publishing the data underpinning scientific res
 4. Know how to choose a repository and publish FAIR open data.
 
 
-## Development team
-TBC
+## Core Development team
+
+- Julien Colomb
+- Julianna Raffaghelli
+- Nithiya Streethran
+- Samuel Guay
+- Eliane Blumer
+
+**Wanna help, be welcome and please join:**
+
+- our Github team here: https://open-science-mooc-invite.herokuapp.com/
+- our conversations on zulip: https://opensciencemooc.zulipchat.com/join/zko8og3jcwiy373wmbrv2un0/
+- or simply use the issue link up here to write us your comments.
+
+## Github workflow
+
+Dear development team, since the master branch is used for production, we will use this "development" branch as our main development site. It means that here are the latest stable changes to be found.
+
+Please do not commit on this branch directly, but create a new branch and make changes on that branch. Then create a pull request from your new branch to this branch "development". This will make sure that:
+
+1. The development history will be easier to follow.
+2. The workflow will be easier if there are conflicting changes, done by different team members.
+3. We will be able to review every change as a team. 
+
+
+
 
 ## Key documents <a name="Key documents"></a>
 
@@ -28,6 +52,11 @@ TBC
 - [Code of conduct](CODE_OF_CONDUCT.md)
 - [Key elements](key_elements.md)
 
+### external documents (ask for write access on zulip)
+
+- [meeting minutes](https://cryptpad.fr/code/#/2/code/view/tEH0V33jWuDeLNLtK3diOcOBS9UQOhf0o2lkXHkdZ80/)
+- [Text proof](https://cryptpad.fr/pad/#/2/pad/edit/gA8iHiW2pKrrvyQy8mADvPJX/) (presently outcomes are worked there)
+- [activities propositions](https://docs.google.com/spreadsheets/d/1KzaPvz-5FVj1KzL4ZI-kETvhErrOPxu3s0bJqrgKqA0/edit?usp=sharing)
 
 ## Licenses <a name="Licenses"></a>
 
