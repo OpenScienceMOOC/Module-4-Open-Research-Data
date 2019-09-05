@@ -11,6 +11,8 @@ output:
 
 ## Table of Contents
 
+- [Overview of the course](#abstract)
+
 - [Introduction](#introduction)
   - [Who is this module for?](#who_for)
   - [Specific learning objectives for this module](#objectives)
@@ -20,17 +22,19 @@ output:
 
 
 
+## Overview of the course <a name="abstract"></a>
+
+With this course, we want to propose a practical approach to open data. Participants should be experiencing the benefits of open data for their own research question and be able to tackle the problem of data documentation early in their workflow. Ideally, after this course, each participant should be eager to learn more about data management and know where to find additional information.
+
 ## Introduction <a name="introduction"></a>
 
 
 
 ### Who is this module for? <a name="who_for"></a>
 
-Designed primarily for students and researchers at the graduate and undergraduate level, this module also serves as training material for postdocs and more senior researchers. We want to help make openness universal and for all, not just a select few. This aims to be a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts.
+Designed primarily for students and researchers at the graduate and undergraduate level, this module also serves as training material for postdocs and more senior researchers. We produced this module with the objective to talk as much to SSH and STM communities, Whatever the type of data produced or collected. 
 
-We have set a highly inclusive standard, and right from the very beginning have had people from across the *whole* spectrum of scholarly research, and related disciplines like tech, publishing, and librarianship, involved in developing and scoping the project. We use the term 'Open Science' given that this seems to be the phrase that global changes are coalescing around; while recognising that terms such as 'Open Research' or 'Open Scholarship', although less widely used, might capture a bit better what our intention is here.
-
-Therefore, irrespective of your background **you are very much welcome here**.
+If you are reading this, it probably means this lectures was created for you, and you are very welcome here.
 
 <br/>
 
@@ -40,14 +44,12 @@ Therefore, irrespective of your background **you are very much welcome here**.
 
 ### Specific learning objectives for this module <a name="objectives"></a>
 
-1. Experience the hassle of accessing research data which is not open, and understand the benfits of open data.
+At the end of this module, the participant will be able to:
 
-2. Understand the importance of data documentation (metadata), and get familiarised with the FAIR principles and research data management concept
-
-3. Understand data format issues and its relation to  data archiving and analysis.
-
-
-4. Choose a repository and publish FAIR open data.
+    1.Understand the benefits of embracing open data practices
+    2.Recognize the importance of data documentation (metadata), by getting familiarized with the FAIR principles and the research data management concepts.
+    3.Identify data format issues and their relation to data archiving and analysis.
+ 4.Publish data in a data repository relevant to his scientific discipline or community 
  
 <br/>
 
