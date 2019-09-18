@@ -9,7 +9,7 @@ Open research data refers to the publishing of the data underpinning scientific 
 
 ## Learning outcomes <a name="Learning outcomes"></a>
 
-At the end of this module, the participant will be able to:
+At the end of this module, the participants will be able to:
 
 1. Understand the benefits of embracing open data practices.
 2. Recognize the importance of data documentation (metadata), by getting familiarized with the FAIR principles and the research data management concepts.
