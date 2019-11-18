@@ -2,12 +2,15 @@
 
 all links working? [![Build Status](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data.svg?branch=development)](https://travis-ci.com/OpenScienceMOOC/Module-4-Open-Research-Data)
 
+**The master branch is used for deployment on eliademy and the opensciencemooc book. Development happens on other branches. If you are part of the development team please go there:** https://github.com/OpenScienceMOOC/Module-4-Open-Research-Data/tree/development
+
 ## Rationale <a name="Rationale"></a>
 
 Open research data refers to the publishing of the data underpinning scientific research results so that they have no restrictions on their access. Openly sharing data opens it up to inspection and re-use, forms the basis for research verification and reproducibility, and opens up a path to broader collaboration. In this module, you will gain insight into the importance of data sharing for reproducible research and how to curate and share your own research data.
 
 
 ## Learning outcomes <a name="Learning outcomes"></a>
+
 
 At the end of this module, the participants will be able to:
 
@@ -44,18 +47,25 @@ Please do not commit on this branch directly, but create a new branch and make c
 
 
 
+
 ## Key documents <a name="Key documents"></a>
 
 - [Contributing](CONTRIBUTING.md)
 - [Module design protocol](/production_toolkit/MODULE_DESIGN_PROTOCOL.md)
-- [Code of conduct](CODE_OF_CONDUCT.md)
 - [Key elements](key_elements.md)
+
+
+## Code of conduct
+
+All modules of the Open Science MOOC are released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
 
 ### external documents (ask for write access on Zulip)
 
 - [meeting minutes](https://cryptpad.fr/code/#/2/code/view/tEH0V33jWuDeLNLtK3diOcOBS9UQOhf0o2lkXHkdZ80/)
 - [Text proof](https://cryptpad.fr/pad/#/2/pad/edit/gA8iHiW2pKrrvyQy8mADvPJX/) (presently outcomes are worked there)
 - [activities propositions](https://docs.google.com/spreadsheets/d/1KzaPvz-5FVj1KzL4ZI-kETvhErrOPxu3s0bJqrgKqA0/edit?usp=sharing)
+
 
 ## Licenses <a name="Licenses"></a>
 
