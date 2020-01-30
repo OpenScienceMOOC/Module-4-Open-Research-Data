@@ -130,7 +130,7 @@
 
 * [What Drives Academic Data Sharing?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118053), (Fecher et al., 2015).
 
-* [From Peer-Reviewed to Peer-Reproduced in Scholarly Publishing: The Complementary Roles of Data Models and Workflows in Bioinformatics](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127612) (GonzÃ¡lez-BeltrÃ¡n et al., 2015).
+* [From Peer-Reviewed to Peer-Reproduced in Scholarly Publishing: The Complementary Roles of Data Models and Workflows in Bioinformatics](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127612) (Gonzalez-Beltran et al., 2015).
 
 * [Making data count](https://www.nature.com/articles/sdata201539) (Kratz and Strasser, 2015).
 
@@ -154,11 +154,15 @@
 
 * [Data sharing in psychology: A survey on barriers and preconditions](http://orca.cf.ac.uk/108005/1/CHambers.DataSharing.pdf) (Houtkoop et al., 2018)
 
+* [Thinking Outside the Box: Developing Dynamic Data Visualizations for Psychology with Shiny](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) (Ellis & Merdian, 2015)
+
 **Key posts**
 
 * [Primer on Data Management: What you always wanted to know](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf), DataOne.
 
 * Data Citation Synthesis Group: [Joint declaration of data citation principles](https://www.force11.org/datacitationprinciples), FORCE 11.
+
+* [Data sharing and how it can benefit your scientific career](https://www.nature.com/articles/d41586-019-01506-x), Gabriel Popkin.
 
 **Other**
 
@@ -199,6 +203,8 @@
 * [Open Data as Terraces](https://www.opendatasoft.com/2016/12/27/open-data-terraces/) (OpenDataSoft).
 
 * [Author Reagent Table: A proposal](https://f1000research.com/posters/6-449) (Crosby et al., 2017).
+
+* [A case for data dashboards: first steps with R Shiny](https://www.linkedin.com/pulse/shiny-data-presentation-added-value-pablo-bernabeu), Pablo Bernabeu.
 
 ### Tasks:
 
