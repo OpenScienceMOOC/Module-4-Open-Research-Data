@@ -94,6 +94,13 @@
 
 * [DMPonline](https://dmponline.dcc.ac.uk): Tool for creating, reviewing, and sharing data management plans.
 
+* [Data Stewardship Wizard (DSW)](https://ds-wizard.org) - an open source tool for Smart Data Management Planning intended for FAIR Open Science
+
+    * [Documentation](https://docs.ds-wizard.org)
+
+    * [ELIXIR AHM'19 DSW Workshop slides](https://f1000research.com/slides/8-1003)
+
+
 * [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) (Fernandes and Vos, 2017).
 
 * [Scientific Data](https://www.nature.com/sdata/) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal).
