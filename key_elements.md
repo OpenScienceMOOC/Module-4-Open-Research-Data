@@ -92,6 +92,12 @@
 
 * [Open Data Essentials](http://accelerate.theodi.org/), Open Data Institute (ODI).
 
+* [Data Stewardship Wizard (DSW)](https://ds-wizard.org) - an open source tool for Smart Data Management Planning intended for FAIR Open Science
+
+    * [Documentation](https://docs.ds-wizard.org)
+
+    * [ELIXIR AHM'19 DSW Workshop slides](https://f1000research.com/slides/8-1003)
+
 * [DMPonline](https://dmponline.dcc.ac.uk): Tool for creating, reviewing, and sharing data management plans.
 
 * [Data Stewardship Wizard (DSW)](https://ds-wizard.org) - an open source tool for Smart Data Management Planning intended for FAIR Open Science
